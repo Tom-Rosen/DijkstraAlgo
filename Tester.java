@@ -3,7 +3,7 @@ public class Tester {
 
 	public static void main(String[] args) {
 		CS400Graph<String> graph;
-		// TODO Auto-generated method stub
+
 		graph = new CS400Graph<>();
         // insert vertices A-F
         graph.insertVertex("DEN");
